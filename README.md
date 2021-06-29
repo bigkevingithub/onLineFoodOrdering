@@ -1,6 +1,4 @@
 # Demo
-
-Spring and Hibernate based online food prdering system
 * Used Spring MVC to decouple the presentation and business logic
 * Implemented security workflow through in-memory and JDBC authentication by Spring Security
 * used MySQL database to store information of users 
